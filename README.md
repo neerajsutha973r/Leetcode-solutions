@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Sorting
 |  |
 | ------- |
@@ -88,4 +92,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Design
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Binary Lifting
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 <!---LeetCode Topics End-->
