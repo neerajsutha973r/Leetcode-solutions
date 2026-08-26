@@ -122,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0337-house-robber-iii) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
