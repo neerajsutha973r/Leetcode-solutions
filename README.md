@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0118-pascals-triangle](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0973-k-closest-points-to-origin](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0337-house-robber-iii](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0509-fibonacci-number) |
