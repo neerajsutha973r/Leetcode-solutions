@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
