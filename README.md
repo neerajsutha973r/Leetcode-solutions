@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0907-sum-of-subarray-minimums](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0973-k-closest-points-to-origin](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Sorting
