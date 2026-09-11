@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0907-sum-of-subarray-minimums](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0973-k-closest-points-to-origin](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
