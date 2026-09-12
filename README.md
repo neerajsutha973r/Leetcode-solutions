@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0901-online-stock-span](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0901-online-stock-span) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Lifting
