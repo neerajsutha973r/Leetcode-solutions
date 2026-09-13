@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0973-k-closest-points-to-origin](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
@@ -268,4 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
