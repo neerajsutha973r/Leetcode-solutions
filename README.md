@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0973-k-closest-points-to-origin](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
