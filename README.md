@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/neerajsutha973r/Leetcode-solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 ## Binary Search Tree
 |  |
 | ------- |
